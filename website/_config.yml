@@ -1,7 +1,7 @@
 # Site settings
 title: "stonegoblyn"
 bye_message: "..."
-baseurl: ""
+baseurl: "/website/"
 url: "https://stonegoblyn.github.io"
 
 

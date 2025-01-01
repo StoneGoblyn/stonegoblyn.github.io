@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stonegoblyn</title>
+    <description></description>
+    <link>http://localhost:4000/website//</link>
+    <atom:link href="http://localhost:4000/website//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 01 Jan 2025 20:21:33 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Jan 2025 20:21:33 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>Initial Setup</title>
+        <description>&lt;p&gt;New years day and first post.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jan 2025 08:55:12 +0000</pubDate>
+        <link>http://localhost:4000/website//website/blog/initial-setup/</link>
+        <guid isPermaLink="true">http://localhost:4000/website//website/blog/initial-setup/</guid>
+        
+        <category>boring</category>
+        
+        
+        <category>website</category>
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
