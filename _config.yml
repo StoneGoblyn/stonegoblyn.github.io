@@ -1,0 +1,10 @@
+# Site settings
+title: "stonegoblyn"
+bye_message: "..."
+baseurl: "/clyell/"
+url: "https://stonegoblyn.github.io"
+
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/

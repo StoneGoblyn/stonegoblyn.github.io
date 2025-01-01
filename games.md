@@ -4,4 +4,7 @@ title: Games
 permalink: /games/
 ---
 
-Game Projects
+
+- [Pyxel Sudoku](sudoku.html)
+
+    - Sudoku game, can be played in browser on PC or mobile
