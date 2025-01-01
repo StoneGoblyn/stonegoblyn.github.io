@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+[Pyxel Sudoku](games/sudoku.html)
+    - Sudoku game, can be played in browser on PC or mobile
