@@ -1,0 +1,23 @@
+# Site settings
+title: "StoneGobyn Games"
+bye_message: "Thx!"
+baseurl: "/games/"
+url: "https://StoneGoblyn.github.io"
+
+
+# Header settings
+nick: "StoneGoblyn"
+mail:
+    domain: "protonmail"
+    ext: "ch"
+source_code:
+    server: "github.com"
+    nick: "gjuniioor"
+blog:
+    server: "wordpress.com"
+    nick: "gjuniioor"
+fingerprint_key: "x"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
