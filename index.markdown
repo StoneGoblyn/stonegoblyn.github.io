@@ -11,7 +11,7 @@ Sudoku game, can be played in browser on PC or mobile
 
 [Rocky's Reboot](games/rockysreboot.html)
 
-Programming logic 2D platformer. Alpha v0.1a In testing (bugs!!)
+Programming logic 2D platformer. Alpha v0.1a In testing (bugs!!) - game not finished
 
 Browser on PC with mouse required
 
