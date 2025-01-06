@@ -5,11 +5,11 @@
 layout: home
 ---
 
-### [Pyxel Sudoku](games/sudoku.html)
+[Pyxel Sudoku](games/sudoku.html)
 
     Sudoku game, can be played in browser on PC or mobile
 
-### [Rocky's Reboot](games/rockysboots.html)
+[Rocky's Reboot](games/rockysboots.html)
 
     Programming logic 2D platformer. Alpha v0.1a In testing (bugs!!)
 
